@@ -1,6 +1,6 @@
-# Simple Svelte Autocomplete
+# Simple Svelte Autocomplete (Svelte 5 Version)
 
-Autocomplete / Select / Typeahead component made with [Svelte](https://svelte.dev/)
+Autocomplete / Select / Typeahead component made with [Svelte 5](https://svelte.dev/)
 
 ### Live demo http://simple-svelte-autocomplete.surge.sh/
 
